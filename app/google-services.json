@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638689673457",
+    "project_id": "piperhealth-bb413",
+    "storage_bucket": "piperhealth-bb413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638689673457:android:9e0f50d33a437e1fe1a950",
+        "android_client_info": {
+          "package_name": "com.pied.piperhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_WIdpqdiAN6RYpB8lO2IS2kbj63CNQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
